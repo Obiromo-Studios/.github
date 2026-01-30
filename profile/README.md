@@ -17,5 +17,4 @@ The following is the current Tech Stack considering all members:
 </p>
 
 ## Contact Us
-If you wish to contact us by discord, you can join [here](https://discord.gg/TzXRQKfwSW)
-Otherwise, use the e-mail specified in this profile
+If you wish to contact us by discord, you can join [here](https://discord.gg/TzXRQKfwSW), otherwise, use the e-mail specified in this profile
